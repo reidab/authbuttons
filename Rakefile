@@ -3,9 +3,9 @@ require 'fileutils'
 ARTBOARDS = {
   "01" => "twitter",
   "02" => "facebook",
-  "03" => "linkedin",
+  "03" => "linked_in",
   "04" => "google",
-  "05" => "openid",
+  "05" => "open_id",
   "06" => "yahoo",
   "07" => "aol",
   "08" => "myspace",
